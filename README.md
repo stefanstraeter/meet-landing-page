@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/stefanstraeter/Meet-Landing-Page
-- Live Site URL: https://stefanstraeter.github.io/Meet-Landing-Page/
+- Solution URL: https://github.com/stefanstraeter/meet-landing-page
+- Live Site URL: https://stefanstraeter.github.io/meet-landing-page/
 
 ---
 
